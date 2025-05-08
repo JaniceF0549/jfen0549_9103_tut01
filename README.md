@@ -1,34 +1,16 @@
-# jfen0549_9103_tut01
-Have a try
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# Quiz 8
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
+### Part1
+I draw inspiration from the following works.
+![An image of the Idea](readmeImages/1.jpg)
+![An image of the Idea](readmeImages/2.jpg)
+It is a kind of mosaic and a cyclical process. Using the first image as the unit screen, gradually making changes and then arranging it. As the number of units increases, these altered mosaic blocks will form the most basic unit images again. The artworks listed in the assignment have many themes related to life. I believe that the combination of movement and stillness in this artistic expression can effectively provide viewers with dynamic shock from static paintings.
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+### Part2
+I learned through the following code that you can change the content you see by dragging the mouse. I think I can change the number of displayed unit screens by scrolling the mouse wheel.
+![Coding Technique Exploration](readmeImages/3.jpg)
+[Link Text](https://happycoding.io/tutorials/p5js/creating-classes/parallax-dots)
 
-1. First Item
-2. Second Item
-3. Third Item
-
-[Link Text](https://www.google.com)
-
-![An image of a cat](https://placecats.com/200/300)
-
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-
-> This is a blockquote.
+By learning the following code, I can increase or decrease the number of unit images and assign different images to adjust the content，such as color, line density.
+![Coding Technique Exploration](readmeImages/4.jpg)
+[Link Text](https://happycoding.io/tutorials/p5js/images/truchet-tiles)
